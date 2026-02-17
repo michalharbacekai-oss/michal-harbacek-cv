@@ -66,7 +66,7 @@ BIO_DATA = {
 
     Aktuálně se rozhodl pro kariérní změnu do oblasti Cyber Security. 
     Jde o pragmatické rozhodnutí – tento obor ho zaujal svou náplní a perspektivou. 
-    Je na začátku této cesty a jeho cílem je postupně získat znalosti, aby mohl uplatnit své provozní zkušenosti (Ops) v bezpečnosti (SecOps).
+    Je na začátku této cesty a jeho cílem je postupně získat znalosti, aby mohl své rozsáhlé provozní zkušenosti (Ops) a znalost IT procesů naplno uplatnit v kybernetické bezpečnosti.
     """,
     "EN": """
     Michal is an IT Operations Specialist with 9 years of experience in an Enterprise environment (HPE).
@@ -74,7 +74,7 @@ BIO_DATA = {
 
     Currently, he has decided to make a career shift into Cyber Security. 
     This is a pragmatic decision – the field appeals to him due to its analytical nature and future perspective. 
-    He is at the beginning of this journey, aiming to gradually acquire knowledge to apply his operational experience (Ops) in the security domain (SecOps).
+    He is at the beginning of this journey, aiming to gradually acquire knowledge to fully apply his extensive operational experience (Ops) and knowledge of IT processes in the field of cyber security.
     """
 }
 
