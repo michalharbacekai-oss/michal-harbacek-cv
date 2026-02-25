@@ -11,7 +11,7 @@ st.set_page_config(
 # --- 2. DATA A PŘEKLADY ---
 NAME = "Michal Harbáček"
 EMAIL = "michalharbacek11@gmail.com"
-LINKEDIN = "https://linkedin.com/in/michal-harbacek"
+LINKEDIN = "https://www.linkedin.com/in/michal-harb%C3%A1%C4%8Dek-735401105/"
 
 LOCATION = {
     "CZ": "Praha, Česká republika",
