@@ -20,7 +20,7 @@ LOCATION = {
 
 UI_TEXTS = {
     "CZ": {
-        "role": "IT Operations Specialist | Aspiring Cyber Security Consultant",
+        "role": "IT Operations Specialist | Transitioning to Cyber Security Consulting & ISM/GRC",
         "about_title": "O mně",
         "exp_title": "🚀 Pracovní Zkušenosti",
         "skills_title": "🛠️ Skills",
@@ -36,7 +36,7 @@ UI_TEXTS = {
         "photo_missing": "📷"
     },
     "EN": {
-        "role": "IT Operations Specialist | Aspiring Cyber Security Consultant",
+        "role": "IT Operations Specialist | Transitioning to Cyber Security Consulting & ISM/GRC",
         "about_title": "About Me",
         "exp_title": "🚀 Work Experience",
         "skills_title": "🛠️ Skills",
