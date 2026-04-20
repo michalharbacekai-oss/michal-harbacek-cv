@@ -70,7 +70,7 @@ EXPERIENCE_DATA = {
     "CZ": """
     **Customer Care Rep III / Tech Solution Consultant** | 03/2017 – Současnost  
     *Hewlett Packard Enterprise s.r.o., Praha* Mezinárodní tým s přesahem do technických konzultací a procesního řízení.  
-    - **L1 Technical Solution Consultant:** Diagnostika a troubleshooting závad na Industry Standard Servers a storage řešeních. Návrh akčních plánů pro nápravu a mitigaci rizik.
+    - **Technical Solution Consultant:** Diagnostika a troubleshooting závad na Industry Standard Servers a storage řešeních. Návrh akčních plánů pro nápravu a mitigaci rizik.
     - **Process Management:** Výzkum a implementace globálních procesů pro lokální využití. Správa procesní knihovny zajišťující compliance a efektivitu.
     - **Projektové vedení:** Vedení projektu "Single Point of Contact" pro klíčového zákazníka.
     - Mentoring nových kolegů a koordinace eskalací.
@@ -84,7 +84,7 @@ EXPERIENCE_DATA = {
     "EN": """
     **Customer Care Rep III / Tech Solution Consultant** | 03/2017 – Present  
     *Hewlett Packard Enterprise s.r.o., Prague* International team with an overlap into technical consulting and process management.  
-    - **L1 Technical Solution Consultant:** Diagnostics and troubleshooting of faults on Industry Standard Servers and storage solutions. Proposing action plans for remediation and risk mitigation.
+    - **Technical Solution Consultant:** Diagnostics and troubleshooting of faults on Industry Standard Servers and storage solutions. Proposing action plans for remediation and risk mitigation.
     - **Process Management:** Research and implementation of global processes for local use. Management of the process library ensuring compliance and efficiency.
     - **Project Management:** Leading the "Single Point of Contact" project for a key customer.
     - Mentoring new colleagues and coordinating escalations.
